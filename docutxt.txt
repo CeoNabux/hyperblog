@@ -1,4 +1,4 @@
-Esto es un t�tulo
+﻿Esto es un t�tulo
 
 Esto es un t�tulo centrado
 
@@ -11,7 +11,7 @@ Y esto de arriba es la foto de unas Suricatas.
 Esta es una prueba para hacer cambios dentro de mi txt
 
 
-A partir de aqui hago los cambios que yo desee
+A partir de aqui hago los cambios que yo quiera
 
 Estos son cambios que espero ver en Git
 Este es un nuevo comentario
