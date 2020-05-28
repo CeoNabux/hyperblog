@@ -12,6 +12,7 @@ Esta es una prueba para hacer cambios dentro de mi txt
 
 
 A partir de aqui hago los cambios que yo quiera
+Porque debo de aprender muchisimo para este proyecto
 
 Estos son cambios que espero ver en Git
 Este es un nuevo comentario
